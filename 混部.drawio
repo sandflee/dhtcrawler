@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-08-09T10:48:55.502Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="hNYMl5DKKXrFuGZJehU4" version="13.0.9" type="github">
+<mxfile host="www.draw.io" modified="2020-08-10T14:19:12.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="unm16yOj2e8ahMWhe25X" version="13.0.9" type="github">
   <diagram id="wlEa9QsBZ5RMu_Bk0HzQ" name="Page-1">
-    <mxGraphModel dx="3395" dy="1309" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4477" dy="1309" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -546,6 +546,12 @@
         </mxCell>
         <mxCell id="PJ8-2Goyk3axcg4vqFP9-55" value="物理资源视角" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-431" y="-86" width="145" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ8-2Goyk3axcg4vqFP9-56" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-1996" y="-76" width="416" height="404" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ8-2Goyk3axcg4vqFP9-57" value="&lt;font style=&quot;font-size: 18px&quot;&gt;配置管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-2164" y="1" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
